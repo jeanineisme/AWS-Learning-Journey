@@ -1,7 +1,7 @@
 # EC2: Launching an Instance
 
 ## Overview
-This project demonstrates how to launch and manage an EC2 instance using AWS. In this prjoect I launched, connected to, and use a Linux instance.
+This project demonstrates how to launch and manage an EC2 instance using AWS. In this prjoect I launched, connected to, use a Linux instance, and then terminate the instance.
 
 ## Steps
 
