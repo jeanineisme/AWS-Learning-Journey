@@ -29,5 +29,5 @@ This portfolio showcases the practical applications of various AWS services thro
 
 ## Projects
 
-- [EC2: Launching an Instance](EC2/launch-ec2-instance)
+- [EC2: Launching an Instance](EC2/EC2/launch-ec2-instance.md)
 
