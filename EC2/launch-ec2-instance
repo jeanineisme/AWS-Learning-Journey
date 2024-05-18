@@ -32,7 +32,7 @@ This project demonstrates how to launch and manage an EC2 instance using AWS fre
    - I kept all other settings default and pressed *Launch instance*. 
    - In the next screen, I chose *View all instances* to close the confirmation page and return to the console to wait for the instance to pass it's status check.
 
-3. **COnnect to the instance**
+3. **Connect to the instance**
 
 ## Resources
 - [Launch Your First Amazon EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
