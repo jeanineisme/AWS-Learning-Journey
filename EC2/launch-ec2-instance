@@ -14,7 +14,7 @@ This project demonstrates how to launch and manage an EC2 instance using AWS. In
    - After creating my new IAM user, I signed out of my root account and signed into the new IAM user account with admin access. 
 
 2. **Launching an Instance**
-   - 
+   - After signing in, I navigated to the EC2 service Dashboard and clicked *Launch instance*
    ![Screenshot](Launch Instance Button.png)
 
 
