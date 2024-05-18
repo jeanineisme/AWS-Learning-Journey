@@ -34,8 +34,3 @@ This portfolio showcases the practical applications of various AWS services thro
 - [S3: Static Website Hosting](S3/static-website)
 - ...
 
-## Resources
-
-- [AWS Documentation](https://docs.aws.amazon.com/)
-- [AWS Free Tier](https://aws.amazon.com/free/)
-- [AWS Tutorials](https://aws.amazon.com/getting-started/hands-on/)
