@@ -1,4 +1,4 @@
-# AWS Learning Journey
+# AWS Portfolio Projects
 
 Welcome to my portfolio, where I document the AWS projects I have completed. 
 
