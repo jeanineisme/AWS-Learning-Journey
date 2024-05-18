@@ -15,7 +15,7 @@ This project demonstrates how to launch and manage an EC2 instance using AWS. In
 
 2. **Launching an Instance**
    - After signing in, I navigated to the EC2 service Dashboard and clicked *Launch instance*
-   ![Screenshot](Launch Instance Button.png)
+   ![Screenshot](Launch-Instance-Button.png)
 
 
 
