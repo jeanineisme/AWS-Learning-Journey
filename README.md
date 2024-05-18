@@ -13,7 +13,7 @@ Welcome to my AWS learning journey repository! This is where I document my progr
 
 ## Introduction
 
-I am documenting my journey to learn AWS to pursue a career in cloud computing. This repository will include notes, projects, and reflections on my learning process.
+Welcome to my portfolio, where I document the AWS projects I have completed. This portfolio showcases the practical applications of various AWS services through detailed project descriptions and implementations. My goal is to demonstrate my skills and progress in cloud computing as I pursue a career in this exciting field. Each project highlights different aspects of AWS, providing a comprehensive view of my capabilities and dedication to becoming a proficient cloud computing professional.
 
 ## Goals
 
