@@ -7,7 +7,6 @@ Welcome to my AWS learning journey repository! This is where I document my progr
 - [Introduction](#introduction)
 - [Goals](#goals)
 - [Learning Plan](#learning-plan)
-- [Logs](#logs)
 - [Projects](#projects)
 - [Resources](#resources)
 
