@@ -9,7 +9,6 @@ Welcome to my portfolio, where I document the AWS projects I have completed.
 - [Goals](#goals)
 - [Learning Plan](#learning-plan)
 - [Projects](#projects)
-- [Resources](#resources)
 
 ## Introduction
 
