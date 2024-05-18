@@ -1,15 +1,5 @@
 # AWS Portfolio Projects
 
-Welcome to my portfolio, where I document the AWS projects I have completed. 
-
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Goals](#goals)
-- [Learning Plan](#learning-plan)
-- [Projects](#projects)
-
 ## Introduction
 
 This portfolio showcases the practical applications of various AWS services through detailed project descriptions and implementations. My goal is to demonstrate my skills and progress in cloud computing as I pursue a career in this exciting field. Each project highlights different aspects of AWS, providing a comprehensive view of my capabilities and dedication to becoming a proficient cloud computing professional.
