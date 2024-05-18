@@ -1,4 +1,4 @@
-# EC2: Launching an Instance
+# EC2: Launching a Instance
 
 ## Overview
 This project demonstrates how to launch and manage an EC2 instance using AWS. In this prjoect I launched, connected to, use a Linux instance, and then terminate the instance.
@@ -13,35 +13,13 @@ This project demonstrates how to launch and manage an EC2 instance using AWS. In
    - In the permissions step, the only policies I attached were the permissions related to giving administrator access. 
    - After creating my new IAM user, I signed out of my root account and signed into the new IAM user account with admin access. 
 
-2. **Create a Key Pair**
-   - Since a Linux instance has no password, I created a key pair to log into my instance securely.
+2. **Launching an Instance**
+   - 
+   ![Screenshot](Launch Instance Button.png)
 
 
-**Choose an Amazon Machine Image (AMI)**
-   - Select an AMI that suits your requirements (e.g., Amazon Linux 2).
 
-3. **Choose an Instance Type**
-   - Choose an instance type (e.g., t2.micro for free tier eligibility).
 
-4. **Configure Instance Details**
-   - Configure network settings, IAM role, and user data (if needed).
-
-5. **Add Storage**
-   - Specify the size and type of the storage volume.
-
-6. **Add Tags**
-   - Add tags to help identify your instance.
-
-7. **Configure Security Group**
-   - Create a new security group or select an existing one.
-   - Configure rules to allow SSH access (port 22).
-
-8. **Review and Launch**
-   - Review all settings and launch the instance.
-   - Select an existing key pair or create a new one to access the instance.
-
-9. **Connect to Your Instance**
-   - Use SSH to connect to the instance using the key pair.
 
 ## Resources
 - [Launch Your First Amazon EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
