@@ -16,18 +16,18 @@ This project demonstrates how to launch and manage an EC2 instance using AWS fre
 2. **Launching an Instance**
    - After signing in, I navigated to the EC2 service Dashboard and clicked *Launch instance*
    
-   ![Launch Instance Button](EC2/Launch-Instance-Button.png)
+   ![Launch Instance Button](Launch-Instance-Button.png)
 
    - I input a name for the instance under *Name and tags* '(Linux Instance)'.
    - After naming, I chose the operating system I wnated to use '(in this case, the HVM version of the Amazon Linux 2 AMI)'
    - **Note:** AMI = Amazon Machine Image
 
-   ![Choosing Instance](EC2/Choosing-Instance.png)
+   ![Choosing Instance](Choosing-Instance.png)
 
    - When selecting th instance type, I kept the default t2.micro instance type.
    - Then created a key pair '(since I did not have one set up already)'
 
-   ![Instance Type and Key Pair](EC2/Instance-Type-Key-Pair.png)
+   ![Instance Type and Key Pair](Instance-Type-Key-Pair.png)
 
    - I kept all other settings default and pressed *Launch instance*. 
    - In the next screen, I chose *View all instances* to close the confirmation page and return to the console to wait for the instance to pass it's status check.
@@ -36,18 +36,18 @@ This project demonstrates how to launch and manage an EC2 instance using AWS fre
    - While on the *Instances* page, I connected to the instance by checking the box next to the instance I just created, clicking the *Actions* dropdown, and then pressing the *Connect* button.
    - I used *EC2 Instance Connect* and then connected.
 
-   ![Connect](EC2/Connect.png)
+   ![Connect](Connect.png)
 
-   ![Connected](EC2/Connected.png)
+   ![Connected](Connected.png)
 
 4.**Terminate the Instance**
    - To terminate the instance, I first navigated back to the *Instances* page.
    - I selected the instance using the check box.
    - Using the *Instance state* dropdown, I selected *Terminate instance*.
 
-   ![Terminate](EC2/Terminate.png)
+   ![Terminate](Terminate.png)
 
-   ![Terminate Confirmation](EC2/Terminate Confirmation.png)
+   ![Terminate Confirmation](Terminate Confirmation.png)
 
 ## Resources
 - [Launch Your First Amazon EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
