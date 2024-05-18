@@ -23,16 +23,14 @@ I am documenting my journey to learn AWS to pursue a career in cloud computing. 
 
 ## Learning Plan
 
-- **Week 1**: Introduction to AWS and EC2
-- **Week 2**: Working with S3 and CloudFront
-- **Week 3**: Exploring IAM and Security Best Practices
-- **Week 4**: Building and Managing Databases with RDS
-- **Week 5**: Networking with VPC
+- **Week 1**: Working with S3 and CloudFront
+- **Week 2**: Exploring IAM and Security Best Practices
+- **Week 3**: Building and Managing Databases with RDS
+- **Week 4**: Networking with VPC
 
 ## Logs
 
 - [Week 1](logs/week1.md)
-- [Week 2](logs/week2.md)
 
 ## Projects
 
