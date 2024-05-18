@@ -6,9 +6,18 @@ This project demonstrates how to launch and manage an EC2 instance using AWS. In
 ## Steps
 
 1. **Sign in to the AWS Management Console**
-   - Navigate to the EC2 dashboard.
+   - In this case, I do not have any users with administrative access so I have created one to be able to complete this project without using my root user account.
+   - To create the IAM user, I navigated to the IAM service and selected *Users* on the right-hand side under the *Access management* dropdown of the Dashboard.
+   - From here I pressed the orange *Create user* button on the top-right, then gave set a user name for my new IAM user. 
+   - I decided to allow this user to have AWS Management Consol Access, then proceeded to creat the IAM user and set a custom password. 
+   - In the permissions step, the only policies I attached were the permissions related to giving administrator access. 
+   - After creating my new IAM user, I signed out of my root account and signed into the new IAM user account with admin access. 
 
-2. **Choose an Amazon Machine Image (AMI)**
+2. **Create a Key Pair**
+   - Since a Linux instance has no password, I created a key pair to log into my instance securely.
+
+
+**Choose an Amazon Machine Image (AMI)**
    - Select an AMI that suits your requirements (e.g., Amazon Linux 2).
 
 3. **Choose an Instance Type**
