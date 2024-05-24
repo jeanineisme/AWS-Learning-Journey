@@ -10,7 +10,7 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
    - Within the AWS management console, I searched for the S3 service and opened the console.
    - Once in the S3 console, I clicked _Create bucket_.
 
-  ![Create A Bucket](CloudFront/Create-a-bucket.png)
+   ![Create-A-Bucket](Create-a-bucket.png)
 
 2. ****
    - 
