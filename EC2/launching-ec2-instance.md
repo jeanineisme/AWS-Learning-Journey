@@ -47,7 +47,7 @@ This project demonstrates how to launch and manage an EC2 instance using AWS fre
 
    ![Terminate](Terminate.png)
 
-   ![Terminate Confirmation](Terminate Confirmation.png)
+   ![Terminate Confirmation](Terminate-Confirmation.png)
 
 ## Resources
 - [Launch Your First Amazon EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
