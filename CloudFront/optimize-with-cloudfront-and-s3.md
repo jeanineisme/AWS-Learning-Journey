@@ -28,15 +28,15 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 ![Disable Additional Features](disable-additional-features.png)
 
 
-   - The only thing left to do in this step was to click the orange _Create bucket_ button at the very bottom of the page.
+   - To finally create the bucket, I clicked the orange _Create bucket_ button at the very bottom of the page.
 
 
 ![Create Bucket Button](create-bucket-button.png)
 
-3. ****
+2. ****
    - 
 
-4. ****
+3. ****
    - 
 
 4.****
