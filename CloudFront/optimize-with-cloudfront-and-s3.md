@@ -39,7 +39,7 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 ![Upload screen](upload-photo-permissions.png)
 
 2. **Entering the CloudFront Console**
-   - THis step is as easy as it sounds: I searched for CloudFront in the search bar and then created a CloudFront distrobution.
+   - This step is as easy as it sounds: I searched for CloudFront in the search bar and then created a CloudFront distrobution.
 
 3. ****
    - 
