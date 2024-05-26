@@ -28,10 +28,15 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 ![Disable Additional Features](disable-additional-features.png)
 
 
-   - To finally create the bucket, I clicked the orange _Create bucket_ button at the very bottom of the page.
+   - To create the bucket, I clicked the orange _Create bucket_ button at the very bottom of the page.
 
 
 ![Create Bucket Button](create-bucket-button.png)
+
+   - Once the bucket is created, I clicked into it and then pressed the upload button to add my test file by dragging the test file image to the upload box.
+   - I open the Permissions dropdown to select _Choose from predefined ACLs_, _Grant public-read access_, and then checked the “I understand the risk of granting public-read access to the specified objects” checkbox.
+
+![Upload screen](upload-photo-permissions.png)
 
 2. ****
    - 
