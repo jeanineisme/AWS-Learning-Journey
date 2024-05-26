@@ -14,12 +14,7 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
    ![Create A Bucket](Create-a-bucket.png)
 
 
-   - When creating a bucket, I had to pick a unique S3 bucket name that has never been used before. In the image below, you'll see _jeaninebucket_. However, I had to go back and change it to _jeaninethebucket_ since the first name was already taken.
-
-
-   ![Bucket Name](bucket-name.png)
-
-
+   - When creating a bucket, I had to pick a unique S3 bucket name that has never been used before.
    - I then set the permission settings for my bucket. I made slight changes to the default settings. First, enabled ACLs under _Object Ownership_, then deselected the check box next to "Block all public access" under _Blcok Public Access settings for this bucket_, and, last, I disabled Bucket Versioning, Default encryption, and advanced settings.
 
 
@@ -29,17 +24,14 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 
 
    - To create the bucket, I clicked the orange _Create bucket_ button at the very bottom of the page.
-
-
-![Create Bucket Button](create-bucket-button.png)
-
    - Once the bucket is created, I clicked into it and then pressed the upload button to add my test file by dragging the test file image to the upload box.
    - I open the Permissions dropdown to select _Choose from predefined ACLs_, _Grant public-read access_, and then checked the “I understand the risk of granting public-read access to the specified objects” checkbox.
 
 ![Upload screen](upload-photo-permissions.png)
 
-2. **Entering the CloudFront Console**
-   - This step is as easy as it sounds: I searched for CloudFront in the search bar and then created a CloudFront distrobution.
+2. **Entering the CloudFront Console and Configure a Web Distrobution**
+   - The first part of this step is as easy as it sounds: I searched for CloudFront in the search bar and then I clicked created a CloudFront distrobution.
+   - Next I had to configure my settings and started by selecting the name of the S3 bucket I created earlier and left the rest of the default configuration setting as is. 
 
 3. ****
    - 
