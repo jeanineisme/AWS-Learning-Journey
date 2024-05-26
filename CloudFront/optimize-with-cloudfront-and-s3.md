@@ -31,9 +31,11 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 
 2. **Entering the CloudFront Console and Configure a Web Distrobution**
    - The first part of this step is as easy as it sounds: I searched for CloudFront in the search bar and then I clicked created a CloudFront distrobution.
-   - Next I had to configure my settings and started by selecting the name of the S3 bucket I created earlier and left the rest of the default configuration setting as is. 
+   - Next I had to configure my settings and started by selecting the name of the S3 bucket I created earlier and left the rest of the default configuration setting as is. The only setting I had to configure that was not set was the Web Application Firewall (WAF), which I set to _Enable security protections_. I then scrolled down and pressed _Create distrobution_.
+  
+   ![Distrobution created](distro-created.png)
 
-3. ****
+3. **Test the link**
    - 
 
 4. ****
