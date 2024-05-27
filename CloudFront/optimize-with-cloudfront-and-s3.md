@@ -44,7 +44,18 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 ![Test File](test-file-tested-and-opened.png)
 
 4. **Disable and Delete Distrobution**
-   - 
+   - I selected the checkbox next to the CloudFront distrobution, pressed disable, and then confirmed I wanted to disable.
+   - I then selected the checkbox next to the now disabled CloudFront distrobution, pressed delete, and confirmed I wanted to delete.\
+  
+5.  **Terminate Resources**
+   - I navigated back to the S3 service console to find the bucket I created for this project.
+   - I clicked into the bucket to delete the test file image I uploaded into it earlier by pressing delete, then typing _permanently delete_ to confirm that I want to permanently delete the contents of this bucket, and then pressed _delete objects_.
+   - I went back to the lict of buckets and deleted _jeaninethebucket_ by pressing delete, confiming the name of the bucket I wanted to delete, then pressing delete bucket.
+
+![Delete Bucket](delete-bucket.png)
+
+6. **Conclusion**
+   - In this project, I successfully created my first Amazon CloudFront web distribution and delivered static content hosted on Amazon S3.
 
 ## Resources
 - [Use an Amazon CloudFront distribution to serve a static website](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html)
