@@ -16,15 +16,16 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
 
    - When creating a bucket, I had to pick a unique S3 bucket name that has never been used before.
    - I then set the permission settings for my bucket. I made slight changes to the default settings. First, enabled ACLs under _Object Ownership_, then deselected the check box next to "Block all public access" under _Blcok Public Access settings for this bucket_, and, last, I disabled Bucket Versioning, Default encryption, and advanced settings.
-   - To create the bucket, I clicked the orange _Create bucket_ button at the very bottom of the page.
-   - Once the bucket is created, I clicked into it and then pressed the upload button to add my test file by dragging the test file image to the upload box.
-   - I open the Permissions dropdown to select _Choose from predefined ACLs_, _Grant public-read access_, and then checked the “I understand the risk of granting public-read access to the specified objects” checkbox.
+  
 
 ![Enable ACLs](acls-enabled.png)
 ![Make Public](make-public-acknowlege.png)
 ![Disable Additional Features](disable-additional-features.png)
 
 
+ - To create the bucket, I clicked the orange _Create bucket_ button at the very bottom of the page.
+   - Once the bucket is created, I clicked into it and then pressed the upload button to add my test file by dragging the test file image to the upload box.
+   - I open the Permissions dropdown to select _Choose from predefined ACLs_, _Grant public-read access_, and then checked the “I understand the risk of granting public-read access to the specified objects” checkbox.
 
 
 ![Upload screen](upload-photo-permissions.png)
