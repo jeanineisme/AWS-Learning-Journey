@@ -41,8 +41,9 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
    - For this test, I needed the CloudFront domain name and the image name I uploaded to the S3 bucket. Then I created/saved the below HTML code in the Notepad text editor.
   
 ![Notepad](Notepad.png)
+![Test File](test-file-tested-and-opened.png)
 
-4. ****
+4. **Disable and Delete Distrobution**
    - 
 
 ## Resources
