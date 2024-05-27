@@ -36,7 +36,10 @@ In this project, I learned to use Amazon CloudFront to accelerate content delive
    ![Distrobution created](distro-created.png)
 
 3. **Test the link**
-   - 
+   - After seeting up my web distribution, I tested it by verifying that CloudFront retrieved my object from the origin and delivers it to a web browser.
+   - For this test, I needed the CloudFront domain name and the image name I uploaded to the S3 bucket. Then I created/saved the below HTML code in the Notepad text editor.
+  
+![Notepad](Notepad.png)
 
 4. ****
    - 
