@@ -20,4 +20,5 @@ This portfolio showcases the practical applications of various AWS services thro
 ## Projects
 
 - [EC2: Launching an Instance](EC2/launching-ec2-instance.md)
+- [CloudFront: Optimizing Web Performance with Amazon CloudFront and S3 Integration](CloudFront/optimize-with-cloudfront-and-s3.md)
 
